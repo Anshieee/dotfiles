@@ -1,0 +1,82 @@
+sw_volume: 74
+audio_device_state:1:pulse audio
+audio_device_state:0:Fifo - Stereo
+audio_device_state:1:Fifo - Mono
+state: pause
+current: 65
+time: 11.485000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Lennon Stella - Goodnight.mp3
+1:The Lumineers - Walls.mp3
+2:Lennon Stella - Goodnight.mp3
+3:NF - The Search.mp3
+4:NF - The Search - Edit.mp3
+5:Taylor Swift - State Of Grace - Acoustic.mp3
+6:Taylor Swift - Blank Space.mp3
+7:Taylor Swift - Shake It Off.mp3
+8:Taylor Swift - ...Ready For It.mp3
+9:Taylor Swift - Delicate.mp3
+10:Taylor Swift - Call It What You Want.mp3
+11:Taylor Swift - I Forgot That You Existed.mp3
+12:Taylor Swift - Cruel Summer.mp3
+13:Taylor Swift - The Man.mp3
+14:Taylor Swift - The Archer.mp3
+15:Taylor Swift - I Think He Knows.mp3
+16:Taylor Swift - The Way I Loved You (Taylor#U2019s Version).mp3
+17:Taylor Swift - Lover.mp3
+18:Taylor Swift - Miss Americana & The Heartbreak Prince.mp3
+19:Taylor Swift - Paper Rings.mp3
+20:Taylor Swift - Love Story (Taylor#U2019s Version).mp3
+21:Taylor Swift - London Boy.mp3
+22:Taylor Swift - Death By A Thousand Cuts.mp3
+23:Taylor Swift - Cornelia Street.mp3
+24:Taylor Swift - False God.mp3
+25:Taylor Swift - You Need To Calm Down.mp3
+26:Taylor Swift - Afterglow.mp3
+27:Taylor Swift - It#U2019s Nice To Have A Friend.mp3
+28:Taylor Swift - Daylight.mp3
+29:Taylor Swift - cardigan.mp3
+30:Taylor Swift - august.mp3
+31:Taylor Swift - willow.mp3
+32:Taylor Swift - Wildest Dreams (Taylor's Version).mp3
+33:Taylor Swift, Brendon Urie, Panic! At The Disco - ME! (feat. Brendon Urie of Panic! At The Disco).mp3
+34:Taylor Swift, Ed Sheeran, Future - End Game.mp3
+35:Taylor Swift, The Chicks - Soon You#U2019ll Get Better (feat. The Chicks).mp3
+36:XXXTENTACION - Look At Me!.mp3
+37:XXXTENTACION - Looking for a Star.mp3
+38:XXXTENTACION - King.mp3
+39:XXXTENTACION - YuNg BrAtZ.mp3
+40:XXXTENTACION - Jocelyn Flores.mp3
+41:XXXTENTACION - Moonlight.mp3
+42:XXXTENTACION - the remedy for a broken heart (why am I so in love).mp3
+43:XXXTENTACION - NUMB.mp3
+44:XXXTENTACION - changes.mp3
+45:XXXTENTACION - Hope.mp3
+46:XXXTENTACION - Triumph.mp3
+47:ZAYN - Entertainer.mp3
+48:ZAYN, Sia - Dusk Till Dawn - Radio Edit.mp3
+49:ZAYN, Sia - Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+50:Joji - YEAH RIGHT.mp3
+51:H.E.R. - Focus.mp3
+52:Frank Ocean - Godspeed.mp3
+53:ElyOtto - SugarCrash!.mp3
+54:Eliodoro Russo - In questo momento.mp3
+55:Conan Gray - Heather.mp3
+56:beabadoobee, Oscar Lang - The Moon Song.mp3
+57:Bea Miller - i can't breathe.mp3
+58:Daya - Sit Still, Look Pretty.mp3
+59:Doja Cat - Rules.mp3
+60:Doja Cat, SZA - Kiss Me More (feat. SZA).mp3
+61:Ed Sheeran - Perfect.mp3
+62:Ed Sheeran, Camila Cabello, Cardi B - South of the Border (feat. Camila Cabello & Cardi B).mp3
+63:Ed Sheeran, Justin Bieber - I Don't Care (with Justin Bieber).mp3
+64:Ed Sheeran, Khalid - Beautiful People (feat. Khalid).mp3
+65:Big Red Machine, Taylor Swift - Renegade (feat. Taylor Swift).mp3
+playlist_end

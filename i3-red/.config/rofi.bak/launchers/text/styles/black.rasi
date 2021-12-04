@@ -1,0 +1,15 @@
+/* colors */
+
+* {
+  al:      #00000000;
+  bg:      #555555ff;
+  se:      #E53935ff;
+  fg:      #ffffffff;
+  ac:      #42A5F5ff;
+  red:     #EC7875ff;
+  green:   #E53935ff;
+  yellow:  #E53935ff;
+  blue:    #E53935ff;
+  purple:  #E53935ff;
+  cyan:    #E53935ff;
+}
