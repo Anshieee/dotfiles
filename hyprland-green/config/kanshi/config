@@ -1,0 +1,36 @@
+# ~/.config/kanshi/config
+
+profile external-only {
+    output eDP-1 disable
+    output DP-1 {
+        mode 1920x1080
+        position 0,0
+        scale 1
+    }
+}
+
+profile laptop-only {
+    output eDP-1 {
+        enable
+        mode 1920x1080
+        scale 1.5
+        position 0,0
+    }
+
+    output DP-1 disable
+}
+
+#profile dual {
+#    output eDP-1 {
+#        mode 1920x1080
+#        scale 1.5
+#        position 0,0
+#    }
+#
+#    output DP-1 {
+#        mode 1920x1080
+#        scale 1
+#        position 1280,0
+#    }
+#}
+
